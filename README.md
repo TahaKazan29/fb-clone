@@ -1,4 +1,10 @@
-# FbClone
+# Facebok Clone
+## Angular with Firebase
+
+![21](https://user-images.githubusercontent.com/74051388/113491073-b5445a80-94d6-11eb-9b4d-c6b21b2810b7.png)
+![22](https://user-images.githubusercontent.com/74051388/113491070-afe71000-94d6-11eb-8580-35ede0f0a4f6.png)
+![23](https://user-images.githubusercontent.com/74051388/113491072-b1b0d380-94d6-11eb-9e72-f59e07ed0f28.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
