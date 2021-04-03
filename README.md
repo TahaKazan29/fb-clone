@@ -1,4 +1,4 @@
-# Facebok Clone
+# Facebook Clone
 ## Angular with Firebase
 
 ![21](https://user-images.githubusercontent.com/74051388/113491073-b5445a80-94d6-11eb-9b4d-c6b21b2810b7.png)
